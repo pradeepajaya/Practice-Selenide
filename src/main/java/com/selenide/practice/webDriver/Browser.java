@@ -1,4 +1,4 @@
-package com.practice.tests.webDriver;
+package selenide.practice.tests.webDriver;
 import com.codeborne.selenide.WebDriverRunner;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
